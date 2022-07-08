@@ -3,7 +3,7 @@
 [![Jenkins](https://ci.jenkins.io/job/plugins/job/jenkins-infra-test-plugin/job/master/badge/icon)](https://ci.jenkins.io/job/plugins/job/jenkins-infra-test-plugin/job/master/)
 
 ***
-[![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins/ironmq-notifier-plugin/master)](https://ci.jenkins.io/buildStatus/icon?job=Plugins/ironmq-notifier-plugin/master)
+[![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins/jenkins-infra-test-plugin/master)](https://ci.jenkins.io/buildStatus/icon?job=Plugins/jenkins-infra-test-plugin/master)
 ***
 
 
